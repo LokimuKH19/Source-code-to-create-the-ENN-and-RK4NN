@@ -6,3 +6,5 @@ ENN.py: The source code to generate an Euler neural network for fatigue life est
 RK4NN.py: The source code to generate a Runge-Kutta 4th-order neural network for fatigue life estimation
 
 Updated on 2025.3.3
+
+## Full Code is Only Available After the Co-op Project is Completed
